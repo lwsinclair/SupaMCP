@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bassnova91-supamcp-badge.png)](https://mseep.ai/app/bassnova91-supamcp)
+
 # Supabase MCP Server
 
 ## 概述
